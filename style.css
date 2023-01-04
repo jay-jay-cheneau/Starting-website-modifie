@@ -917,7 +917,11 @@ h4 {
     }
     .navbar.row {
         margin-left: 0;
-        margin-right: 0;
+        margin-right: 0;    
+    }
+    .keywords{
+        color:#cccccc;font-size:1px;
+        
     }
     .site-navigation {
         position: inherit;
